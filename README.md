@@ -144,9 +144,9 @@ Durante el live coding se desarrolla una pequeña aplicación para demostrar:
 
 Las diapositivas utilizadas durante la exposición se encuentran en:
 
-```text
-[react-presentation.pdf](docs/react-presentation.pdf)
-```
+
+[Ver presentación en PDF](docs/react-presentation.pdf)
+
 
 ## Recursos adicionales
 
